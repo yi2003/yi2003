@@ -1,24 +1,23 @@
 # Hi, I'm Yi ([yi2003](https://github.com/yi2003))
 
-**Full-Stack Engineer · Enterprise Systems & Indie AI/Web** · Shanghai · EN/ZH
+**Backend Engineer** · Shanghai · EN/ZH
 
-I work across two lanes:
+I focus on **server-side systems**: APIs, services, microservices, cloud delivery, and data pipelines — especially for logistics and e-commerce style domains.
 
-### Enterprise systems
-.NET / Java backends for logistics and e-commerce style domains — APIs, services, and practical cloud delivery.
-
-### Indie AI / web
-Small shipped web apps and experiments: React / Node tools, LLM-assisted utilities, and interactive / Three.js frontends with fast UX.
+### What I build
+- REST/gRPC-style APIs and service boundaries
+- .NET / Java enterprise backends
+- Python and Node for tooling, automation, and LLM-assisted product backends
+- Small shipped web products (I own the backend; UI is not my specialty)
 
 ### Stack
-JavaScript · Python · React · Node.js · .NET Core · Java · Three.js
+.NET Core · Java · Python · Node.js · SQL · cloud services · system design
 
 ### Selected public work
 - [aipricechart](https://github.com/yi2003/aipricechart) — [live](https://aipricechart.vercel.app)
 - [chifax](https://github.com/yi2003/chifax) — [live](https://chifax.vercel.app)
-- [nodflap](https://github.com/yi2003/nodflap) — [live](https://nodflap.vercel.app)
+- [Paper2MD](https://github.com/yi2003/Paper2MD) — paper → Markdown / LaTeX pipeline (Python)
 - [keepawake](https://github.com/yi2003/keepawake)
-- [Paper2MD](https://github.com/yi2003/Paper2MD) — paper → Markdown / LaTeX OCR tool (Python)
-- [3d-platform](https://github.com/yi2003/3d-platform)
+- [nodflap](https://github.com/yi2003/nodflap) — [live](https://nodflap.vercel.app) (shipped experiment)
 
-Open to part-time / freelance full-stack work with clear scope.
+Open to part-time / freelance **backend** work with clear scope.
